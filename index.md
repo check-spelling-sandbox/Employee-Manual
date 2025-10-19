@@ -74,7 +74,7 @@ COS may offer staff the option to purchase their laptop when they leave COS, for
 
 1. Be employed by COS for at least 2 years, and leave in good standing
 2. The machine must be at least three years old
-3. If the laptop is a Macbook Pro, the option to purchase is at the discretion of the Senior Business Manager. Despite meeting the above terms, Macbook Pros may not be available for purchase as they may be retained for other employees depending on age, and other factors. 
+3. If the laptop is a MacBook Pro, the option to purchase is at the discretion of the Senior Business Manager. Despite meeting the above terms, MacBook Pros may not be available for purchase as they may be retained for other employees depending on age, and other factors. 
 4. Once the machine has met the terms above and the purchasing party has agreed to the payment terms, a signed laptop purchase agreement will be required.
 
 Parking
