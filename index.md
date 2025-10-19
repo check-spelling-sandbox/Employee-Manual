@@ -111,7 +111,7 @@ Examples of this policy in action:
 
 3. Mark gets ill in July and takes 2 days of PTO, per the policy. He provides a doctor’s note to Human Resources on day 3 of being ill. Mark decides to take 2 extra days of PTO for his illness instead of dipping into the Paid Leave for Unique Life Circumstances. Later in the year, Mark realizes he does not have enough PTO to cover his vacation in December. Mark is not allowed to retroactively apply the Paid Leave for Unique Life Circumstances from his sick time in July to reclaim PTO days.
 
-4. Maya gets into a car accident. She provides Human Resources with a doctor’s note as soon as she is able. She takes 2 days of PTO, per the policy. Maya has extensive injuries and requests to take paid leave for 3 months. After she’s exhausted the 3 months, Maya is still disbled and unable to work; she is now eligible for long term disability coverage.
+4. Maya gets into a car accident. She provides Human Resources with a doctor’s note as soon as she is able. She takes 2 days of PTO, per the policy. Maya has extensive injuries and requests to take paid leave for 3 months. After she’s exhausted the 3 months, Maya is still disabled and unable to work; she is now eligible for long term disability coverage.
 
 Paid Leave for Unique Life Circumstances
 ------------------
