@@ -161,7 +161,7 @@ As part of COS’ commitment to allow employees opportunities for professional d
 5. If the request is not approved, your manager/director will let you know.
 6. Upon approval, employee will coordinate with the Senior Business Manager to book the opportunity.
 7. After attending the PD session, the employee will write a short report back on the outcomes, even just a paragraph, to their manager who might then recommend the person share out more broadly if the learning has relevance to others. Sharing more broadly can include lightning talks during an all-team, department meeting, or other project meeting.
-8. Each opportunity will be vetted for fit and alignment with the work and goals of COS, as well as available funds. Please also note that funds can only be approved for use within the fiscal year, ending December 31st.
+8. Each opportunity will be vetted for fit and alignment with the work and goals of COS, as well as available funds. Note that funds can only be approved for use within the fiscal year, ending December 31st.
 
 Medical, Dental and Vision Insurance
 ------------------
