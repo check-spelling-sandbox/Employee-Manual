@@ -45,7 +45,7 @@ Security and Office Access
 
 COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All local, full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify Human Resources if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). (Note: this card is also used for parking at the Omni parking garage). Parking access is granted by Human Resources based on business needs. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed.  If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff member listed to notify them.
 
-A copy of the Physical Access Policy can be found [here](https://docs.google.com/document/d/1SXvuE0t5on9j8kQAEvhO-CWIDvbBPrxs/edit).
+See the [Physical Access Policy](https://docs.google.com/document/d/1SXvuE0t5on9j8kQAEvhO-CWIDvbBPrxs/edit).
 
 Location
 ------------------
